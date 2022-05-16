@@ -1,0 +1,1 @@
+sh ./script/full-supervised/cora_Ortho-GCNII.sh
